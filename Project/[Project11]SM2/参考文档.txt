@@ -1,0 +1,5 @@
+RFC6979    K生成  https://datatracker.ietf.org/doc/html/rfc6979#section-2.1
+RFC2104    HMAC   https://datatracker.ietf.org/doc/html/rfc2104
+GB32918.5  SM2    http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=728DEA8B8BB32ACFB6EF4BF449BC3077
+GB32918.2  SM2    http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=6F1FAEB62F9668F25F38E0BF0291D4AC
+GB32918.1  SM2    http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=3EE2FD47B962578070541ED468497C5B
