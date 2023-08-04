@@ -1,0 +1,2 @@
+处理器	11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz   3.11 GHz
+机带 RAM	16.0 GB (15.8 GB 可用)
